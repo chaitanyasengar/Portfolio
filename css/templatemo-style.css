@@ -152,6 +152,7 @@ hr {
   font-size: 60px;
   padding-bottom: 40px;
 }
+
 /* END WORK */
 
 /* START PORTFOLIO */
@@ -355,6 +356,7 @@ hr {
 .facebook { background: #3b5998; }
 .twitter { background: #55acee; }
 .pinterest { background: #cc2127; }
+.github { background: #3f3f3f; }
 .media {
   padding: 80px 40px 80px 40px;
   -webkit-transition: all 0.6s ease-in;
